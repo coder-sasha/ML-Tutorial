@@ -1,11 +1,11 @@
 **Neural Networks for Market Data**
-Predicting stock market moves and trends has always been a great challenge for investors, professional traders and scientists   
+Predicting stock market moves and trends has always been a great challenge for investors, professional traders and scientists.   
 (remember the story of Sir Issac Newton lost money, entering tulips market).   
 Stock prices are influenced by many unpredictable factors:  
-change of economic indicators;  
-global and local news;  
-political events;  
-even chats in social networks – the GameStop story;   
+- change of economic indicators;  
+- global and local news;  
+- political events;  
+- even chats in social networks – the GameStop story;   
 
 Can neural networks enhance stock market predictions?   
 Stock prices are time series. NN takes this time series data as input and learns how to predict future movements.  
