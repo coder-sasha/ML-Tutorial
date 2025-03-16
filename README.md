@@ -4,10 +4,10 @@ The scripts and notebooks will walk you through working examples of machine lear
 We will explore decision trees, an approach to machine learning that produces logical rules from data, then turn to neural networks and finally explore a practical application of ML tools and methods.  
 
 **What Exactly Is Machine Learning?**  
-Machine learning is ust a different way of computer programming.  
+Machine learning is just a different way of computer programming.  
 In traditional programming, we tell the computer what to do.  
-In machine learning, instead of giving the computer algorithms or formulas we start by describing the kind of output we want,  
-exemplified an input, and the machine (or rather the program) learner creates working rules that should give us desired results:  
+In machine learning, instead of giving the computer a program or formulas we describe what output we want,  
+exemplified an input, and the machine (or rather the program) creates data procesing rules that should give us desired results:  
 
 			Traditional Programming:  
 			Rules + Data → Output
