@@ -1,6 +1,6 @@
 """
 This script creates the my_new_project directory with the specified subdirectories and files.
-It can be useful when you are starting new projects, ensuring a consistent and organized setup:
+It can be useful when you are starting new projects, ensuring a consistent and organized setup
 
 my_new_project_YYYYMMDD/
 ├── src/
