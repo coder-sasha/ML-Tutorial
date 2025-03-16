@@ -1,4 +1,4 @@
-**This folder introduces one of most power NLP tool - the library spaCy.  
+**This folder introduces one of most power NLP tool - the library spaCy.**  
 The examples:  
 - misc is the set of scripts, demonstarting different aspect of spaCy usage in NLP;
 - data_extrtaction shows how to spaCy to extract useful information form text data whithout breaking head with complicated regular expressions and unrelable substrings;  
