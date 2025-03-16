@@ -1,0 +1,21 @@
+Job Title:C++ Developer in Trading Technology.
+Job Overview:
+We are seeking a highly skilled C++ Developer with extensive experience in trading technology and a background in Rates, Credit, FX, or Equities. 
+The successful candidate will be responsible for developing, optimizing, and maintaining high-performance trading systems. 
+This role offers an exciting opportunity to work in a fast-paced environment, collaborating with a dynamic team of professionals.
+Key Responsibilities:
+- Design, develop, and maintain high-performance trading applications using C++.
+- Implement and optimize algorithms for trading strategies.
+- Collaborate with quants, traders, and other developers to gather requirements and deliver solutions.
+- Conduct performance analysis and optimization to ensure low-latency and high-throughput trading systems.
+- Integrate trading platforms with market data feeds, order management systems, and risk management tools.
+- Troubleshoot and resolve issues related to trading systems and infrastructure.
+- Stay up-to-date with industry trends and best practices in trading technology.
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Engineering, Finance, or a related field.
+- Proven experience in C++ development, with a strong understanding of object-oriented programming and design patterns.
+- Extensive experience in trading technology, preferably within Rates, Credit, FX, or Equities.
+- Knowledge of low-latency programming, multi-threading, and performance optimization.
+- Familiarity with financial markets, trading algorithms, and electronic trading platforms.
+- Strong analytical and problem-solving skills.
+- Excellent communication and collaboration abilities.
